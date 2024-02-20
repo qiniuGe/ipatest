@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.50.64:8098/sandbox/file/download/sandbox-app/Target.ipa</string>
+					<string>https://raw.githubusercontent.com/qiniuGe/ipatest/main/Payload.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
